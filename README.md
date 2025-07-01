@@ -4,7 +4,7 @@ I'm a passionate **self-taught developer** transitioning from a **QA background*
 
 ## 👨‍💻 About Me
 
-- 🏢 Previously worked at **Infosys** and Currently working at **Infor** as a QA Engineer  
+- 🏢 Previously worked at **Infosys** and Currently working at **Infor** as a Quality Assurance Analyst in Development  
 - 🧪 Specialized in **automation (Selenium, TestNG)** and **manual testing**  
 - 💡 Currently learning **full-stack development (MERN stack)** through **Scaler Academy**  
 - 🛠️ Actively building real-world projects to sharpen my development skills  
